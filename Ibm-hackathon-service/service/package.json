@@ -6,7 +6,7 @@
   "dependencies": {
     "algorithmia": "^0.3.10",
     "aws-sdk": "^2.725.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "ffmpeg-extract-frames": "^2.0.2",
